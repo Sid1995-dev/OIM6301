@@ -1,0 +1,31 @@
+customer_id,name,email,city,join_date
+1,Sarah Johnson,sarah.j@email.com,Boston,2023-01-15
+2,Michael Chen,m.chen@email.com,New York,2023-02-20
+3,Emma Davis,emma.d@email.com,Boston,2023-03-10
+4,James Wilson,j.wilson@email.com,Chicago,2023-03-25
+5,Olivia Brown,olivia.b@email.com,Boston,2023-04-05
+6,William Martinez,w.mart@email.com,New York,2023-04-18
+7,Sophia Garcia,sophia.g@email.com,San Francisco,2023-05-02
+8,Benjamin Lee,ben.lee@email.com,Boston,2023-05-15
+9,Ava Anderson,ava.a@email.com,Chicago,2023-06-01
+10,Ethan Taylor,e.taylor@email.com,New York,2023-06-12
+11,Isabella Thomas,i.thomas@email.com,Boston,2023-06-28
+12,Alexander Moore,alex.m@email.com,San Francisco,2023-07-10
+13,Mia Jackson,mia.j@email.com,Chicago,2023-07-22
+14,Daniel White,d.white@email.com,Boston,2023-08-05
+15,Charlotte Harris,char.h@email.com,New York,2023-08-18
+16,Matthew Clark,matt.c@email.com,San Francisco,2023-09-01
+17,Amelia Lewis,amelia.l@email.com,Boston,2023-09-15
+18,Joseph Walker,joe.w@email.com,Chicago,2023-09-28
+19,Harper Hall,harper.h@email.com,New York,2023-10-10
+20,David Allen,d.allen@email.com,Boston,2023-10-25
+21,Evelyn Young,eve.y@email.com,San Francisco,2023-11-08
+22,Jackson King,jack.k@email.com,Boston,2023-11-20
+23,Abigail Wright,abi.w@email.com,Chicago,2023-12-01
+24,Ryan Lopez,ryan.l@email.com,New York,2024-01-12
+25,Emily Scott,emily.s@email.com,Boston,2024-02-05
+26,Christopher Green,chris.g@email.com,San Francisco,2024-03-15
+27,Sofia Adams,sofia.a@email.com,Boston,2024-04-01
+28,Andrew Baker,andrew.b@email.com,Chicago,2024-05-10
+29,Grace Nelson,grace.n@email.com,New York,2024-06-20
+30,Joshua Carter,josh.c@email.com,Boston,2024-07-15
