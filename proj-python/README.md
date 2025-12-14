@@ -5,7 +5,7 @@ E-commerce data analysis with Python, SQLite, and API integration.
 ## Project Structure
 
 ```
-project-python/
+proj-python/
 ├── data/
 │   ├── customers.csv
 │   ├── products.csv
@@ -29,7 +29,7 @@ project-python/
 ## How to Run
 
 ```bash
-cd project-python
+cd proj-python
 
 # 1. Setup database
 python setup_database.py
